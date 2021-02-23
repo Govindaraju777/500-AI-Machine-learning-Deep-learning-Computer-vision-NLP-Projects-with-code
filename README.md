@@ -70,3 +70,7 @@
 | 62    | 300+ Google Earth Engine Jupyter Notebooks to Analyze Geospatial Data | https://bit.ly/387JwjC              |
 | 63    | 1000 + Machine learning Projects Information                 | https://bit.ly/3rMGk4N              |
 
+
+
+https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+
